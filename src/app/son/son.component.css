@@ -1,0 +1,8 @@
+.main-son{
+display: flex;
+    width: 30%;
+    height: 20vh;
+flex-direction: column;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
